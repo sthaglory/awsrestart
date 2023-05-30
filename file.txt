@@ -1,1 +1,2 @@
-hello its a nano file. and i am eager to learn github.
+hello its a nano file. and i am eager to learn github
+this is second i am trying to commit the github push in the nano..
